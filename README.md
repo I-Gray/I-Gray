@@ -7,6 +7,7 @@
 			「 Isaac Gray 」
 			</a>
 			<br/>
+			<br/>
 			software engineer <br/>
 			designer & creator
 	</samp>
