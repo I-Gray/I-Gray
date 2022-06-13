@@ -45,7 +45,7 @@ I am interested in *agile* methodologies, software *design patterns*, *DDD* & *T
 
 <br />
 
-<img href="https://www.linkedin.com/in/isaacgray1/" src="https://img.shields.io/badge/LinkedIn-26C1E7?style=for-the-badge&logo=linkedin&logoColor=black" />&nbsp;<img href="https://isaacgray.xyz" src="https://img.shields.io/badge/isaacgray.xyz-26C1E7?style=for-the-badge&logo=About.me&logoColor=black" />
+<a href="https://www.linkedin.com/in/isaacgray1/"><img src="https://img.shields.io/badge/LinkedIn-26C1E7?style=for-the-badge&logo=linkedin&logoColor=black" /></a>&nbsp;<a href="https://isaacgray.xyz"><img src="https://img.shields.io/badge/isaacgray.xyz-26C1E7?style=for-the-badge&logo=About.me&logoColor=black" /></a>
 
 
 <br />
