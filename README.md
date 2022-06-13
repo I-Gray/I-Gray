@@ -1,9 +1,9 @@
 <h3 align="center">
-<img src="Logo.png" height="100"/>
+<img href="https://isaacgray.xyz/" src="Logo.png" height="100"/>
 	<br/>
 	<br />
 	<samp>
-			<a href="https://grayisaac.xyz/" target="_blank" >
+			<a href="https://isaacgray.xyz/" target="_blank" >
 			「 Isaac Gray 」
 			</a>
 			<br/>
