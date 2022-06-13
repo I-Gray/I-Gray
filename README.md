@@ -1,5 +1,7 @@
 <h3 align="center">
+<a href="https://isaacgray.xyz/" target="_blank" >
 <img href="https://isaacgray.xyz/" src="Logo.png" height="100"/>
+</a>
 	<br/>
 	<br />
 	<samp>
