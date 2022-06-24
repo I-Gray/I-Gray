@@ -27,6 +27,10 @@ I am primarily a *back-end* software engineer, although I also enjoy the design 
 
 I am interested in *agile* methodologies, software *design patterns*, *DDD* & *TDD*. 
 
+<br />
+<details><summary><samp>&nbsp;&nbsp;About ✨📚</samp> </summary>
+<br />
+
 <br/> 
 
 ```json
@@ -43,16 +47,14 @@ I am interested in *agile* methodologies, software *design patterns*, *DDD* & *T
 	"funFact": "I once ate a carolina reaper for fun"
 }
 ```
-
+</details>
+	
+	
 <br />
 
 <a href="https://www.linkedin.com/in/isaacgray1/"><img src="https://img.shields.io/badge/LinkedIn-26C1E7?style=for-the-badge&logo=linkedin&logoColor=black" /></a>&nbsp;<a href="https://isaacgray.xyz"><img src="https://img.shields.io/badge/isaacgray.xyz-26C1E7?style=for-the-badge&logo=About.me&logoColor=black" /></a>
 
-
-<br />
-
 ---
-
 
 <br />
 <details><summary><samp>&nbsp;&nbsp;Knowledge & Skills ✨ 🔨</samp> </summary>
