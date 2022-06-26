@@ -25,10 +25,20 @@
 
 I am primarily a *back-end* software engineer, although I also enjoy the design aspect of *front-end*.
 
-I am interested in *agile* methodologies, software *design patterns*, *DDD* & *TDD*. 
+I am interested in *agile*, software *design patterns*, *DDD* & *TDD*. 
 
-<br/> 
+<br />
 
+<a href="https://www.linkedin.com/in/isaacgray1/"><img src="https://img.shields.io/badge/LinkedIn-26C1E7?style=for-the-badge&logo=linkedin&logoColor=black" /></a>&nbsp;<a href="https://isaacgray.xyz"><img src="https://img.shields.io/badge/isaacgray.xyz-26C1E7?style=for-the-badge&logo=About.me&logoColor=black" /></a>
+
+<br />
+
+---
+
+<br />
+<details><summary><samp>&nbsp;&nbsp;About ✨ 📚</samp> </summary>
+<br />
+	
 ```json
 {
 	"age": 24,
@@ -40,18 +50,11 @@ I am interested in *agile* methodologies, software *design patterns*, *DDD* & *T
 		"music", "running", "climbing", 
 		"traveling", "chess", "writing"
 	],
-	"funFact": "I once ate a carolina reaper for fun"
+	"fun_fact": "I once ate a carolina reaper for fun"
 }
 ```
-
-<br />
-
-<a href="https://www.linkedin.com/in/isaacgray1/"><img src="https://img.shields.io/badge/LinkedIn-26C1E7?style=for-the-badge&logo=linkedin&logoColor=black" /></a>&nbsp;<a href="https://isaacgray.xyz"><img src="https://img.shields.io/badge/isaacgray.xyz-26C1E7?style=for-the-badge&logo=About.me&logoColor=black" /></a>
-
-
-<br />
-
----
+	
+</details>
 
 
 <br />
@@ -168,4 +171,4 @@ I am interested in *agile* methodologies, software *design patterns*, *DDD* & *T
 
 <br />
 
-<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FI-Gray&label=Github%20Profile%20Visitors&countColor=%2326c1e7&style=flat" />
+<!-- <img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FI-Gray&label=Github%20Profile%20Visitors&countColor=%2326c1e7&style=flat" /> -->
