@@ -49,8 +49,7 @@ I am interested in *agile*, software *design patterns*, *DDD* & *TDD*.
 	"interests": [
 		"music", "running", "climbing", 
 		"traveling", "chess", "writing"
-	],
-	"fun_fact": "I once ate a carolina reaper for fun"
+	]
 }
 ```
 	
