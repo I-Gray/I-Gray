@@ -25,7 +25,7 @@
 
 I am primarily a *back-end* software engineer, although I also enjoy the design aspect of *front-end*.
 
-I am interested in *agile*, software *design patterns*, *DDD* & *TDD*. 
+I am interested in *agile methodologies*, *DDD* & *TDD*. 
 
 <br />
 
