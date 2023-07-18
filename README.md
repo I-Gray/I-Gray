@@ -41,14 +41,14 @@ I am interested in *agile*, software *design patterns*, *DDD* & *TDD*.
 	
 ```json
 {
-	"age": 24,
+	"age": 25,
 	"education": [
 		"Bachelor of Computer Science",
 		"Bachelor of Computer Engineering (Honours)"
 	],
 	"interests": [
-		"music", "running", "climbing", 
-		"traveling", "chess", "writing"
+		"music", "running", "traveling",
+		"reading", "writing"
 	]
 }
 ```
@@ -57,7 +57,7 @@ I am interested in *agile*, software *design patterns*, *DDD* & *TDD*.
 
 
 <br />
-<details><summary><samp>&nbsp;&nbsp;Knowledge & Skills ✨ 🔨</samp> </summary>
+<!-- <details><summary><samp>&nbsp;&nbsp;Knowledge & Skills ✨ 🔨</samp> </summary>
 <br />
 
 📖&nbsp; **Languages**
@@ -169,5 +169,6 @@ I am interested in *agile*, software *design patterns*, *DDD* & *TDD*.
 ---
 
 <br />
+-->
 
 <!-- <img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FI-Gray&label=Github%20Profile%20Visitors&countColor=%2326c1e7&style=flat" /> -->
