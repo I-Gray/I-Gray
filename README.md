@@ -46,6 +46,9 @@ I am interested in *agile*, software *design patterns*, *DDD* & *TDD*.
 		"Bachelor of Computer Science",
 		"Bachelor of Computer Engineering (Honours)"
 	],
+	"experience": [
+		"HelloFresh": "Software Engineer"
+	],
 	"interests": [
 		"music", "running", "traveling",
 		"reading", "writing"
