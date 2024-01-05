@@ -23,7 +23,7 @@
 
 <h3>Hello 👋</h3>
 
-I am primarily a *back-end* data engineer based in London.
+I am primarily a back-end data engineer based in London.
 
 <br />
 
