@@ -10,7 +10,7 @@
 			</a>
 			<br/>
 			<br/>
-			software engineer <br/>
+			software/data engineer <br/>
 			designer & creator
 	</samp>
 </h3>
@@ -23,9 +23,7 @@
 
 <h3>Hello 👋</h3>
 
-I am primarily a *back-end* software engineer, although I also enjoy the design aspect of *front-end*.
-
-I am interested in *agile methodologies*, *DDD* & *TDD*. 
+I am primarily a *back-end* data engineer based in London.
 
 <br />
 
@@ -47,7 +45,8 @@ I am interested in *agile methodologies*, *DDD* & *TDD*.
 		"Bachelor of Computer Engineering (Honours)"
 	],
 	"experience": [
-		"HelloFresh": "Software Engineer"
+		"HelloFresh Sydney": "Software Engineer",
+		"HelloFresh London": "Data Engineer"
 	],
 	"interests": [
 		"music", "running", "traveling",
