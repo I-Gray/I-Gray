@@ -39,7 +39,7 @@ I am primarily a back-end data engineer based in London.
 	
 ```json
 {
-	"age": 25,
+	"age": 26,
 	"education": [
 		"Bachelor of Computer Science",
 		"Bachelor of Computer Engineering (Honours)"
